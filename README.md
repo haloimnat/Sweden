@@ -2,7 +2,7 @@
 Learn about sweden!
 
 
-[24 Ngu Wey En SR2B.html](https://github.com/user-attachments/files/21927818/24.Ngu.Wey.En.SR2B.html)
+[index.html](https://github.com/user-attachments/files/21927818/24.Ngu.Wey.En.SR2B.html)
 <html>
 <html lang="zh-CN">
 <head>
